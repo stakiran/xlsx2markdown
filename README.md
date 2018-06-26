@@ -11,11 +11,11 @@ Excel ファイル(.xlsx)の指定シート内容を Markdown に落とす Pytho
 ### (Before) Excel file
 sample.xlsx が以下の三シートを含んでいるとします(xlsxファイル自体は個人情報が含まれてしまうため同梱していません)。
 
-!(sheet1)[xlsx2markdown_demo1.jpg]
+![sheet1](xlsx2markdown_demo1.jpg)
 
-!(sheet2)[xlsx2markdown_demo2.jpg]
+![sheet2](xlsx2markdown_demo2.jpg)
 
-!(sheet3)[xlsx2markdown_demo3.jpg]
+![sheet3](xlsx2markdown_demo3.jpg)
 
 ### (After) Conversion
 以下のようにして変換を行います。
