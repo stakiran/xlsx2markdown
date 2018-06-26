@@ -1,0 +1,4 @@
+*.xlsx
+*.md
+!readme.md
+!demo*.md
